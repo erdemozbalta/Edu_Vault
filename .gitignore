@@ -1,0 +1,9 @@
+build/
+dist/
+nbproject/private/
+*.class
+*.log
+*.db
+*.exe
+package/
+src/eduvault/db/DatabaseConnection.java
